@@ -3,7 +3,7 @@
 ## Citation
 
 ```bibtex
-@unpublished{luo2025spectralvariation,
+@article{luo2025spectralvariation,
   title     = {Higher-Order Singular-Value Derivatives of Rectangular Real Matrices},
   author    = {R\'ois\'in Luo and Colm O'Riordan and James McDermott},
   year      = {2025},
